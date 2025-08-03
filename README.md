@@ -1,7 +1,7 @@
 # InternetOfThings
 This contains IOT projects like SmartHelmet, SmartFarming
 
-##SmartHelmet
+#SmartHelmet
 
 Objectives of the Smart Helmet System:
 
@@ -15,7 +15,7 @@ To enhance safety awareness by leveraging fast and reliable communication techno
 
 To ensure timely assistance and rescue for accident victims, thereby increasing the chances of survival and reducing the severity of injuries.
 
-##Smart Farming
+#Smart Farming
 
 Objectives of Smart Farming:
 
